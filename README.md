@@ -1,4 +1,10 @@
 # پروژه رنگی‌سازی و اشتراک تصاویر کاخ گلستان
+
+<div style="display: flex; gap: 10px;">
+  <img src="https://github.com/SAhmadrezaAnaami/Qajar/blob/main/images/01.colr.121/121-1.jpg" alt="Image 1" style="width: 400px;" />
+  <img src="https://github.com/SAhmadrezaAnaami/Qajar/blob/main/images/01.cut .121/121-1.jpg" alt="Image 2" style="width: 400px;" />
+</div>
+
 ## معرفی پروژه
 
 آرشیو عکس‌های کاخ گلستان از مهمترین گنجینه‌های تصویری ایران و جهان به‌شمار می‌رود. این مجموعه شامل حدود **۴۰ هزار تصویر** از دوره قاجار است که در **۱۵۲۰ آلبوم** سازماندهی شده و موضوعات متنوعی مانند معماری سلطنتی، زندگی درباریان، مراسم رسمی و حتی تصاویر از کشورهای دیگر را دربرمی‌گیرد.
